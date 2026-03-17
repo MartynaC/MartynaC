@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @MartynaC, I currently live in Berlin.
-- 👀 I’m Frontend Developer, with strong, up-to-date knowledge of HTML, CSS, JavaScript, passionate about Creative Coding. 
-- 🌱 I’m currently diving into React.
-- 💞️ I am excited to transition from freelancing to a job position that will provide me with new challenges, opportunities to expand my skills, and a chance to grow and learn within a dynamic team.
-- 📫 Contact me by email: hello@martynachojnacka.com, check out my website to see some of my recent projects:
-https://martynachojnacka.com/
+👋 Hi, I'm @MartynaC, based in Berlin.
+💻 I'm a programmer and creative coder with 10+ years of experience — building apps, websites, and interactive systems, both freelance and in digital studios.
+🎨 My practice lives at the intersection of code and art: live visuals, reactive installations, physical computing, and real-time AI video generation.
+🤖 Currently finishing a Data Science, Machine Learning & AI bootcamp at Le Wagon — expanding into Python, ML pipelines, and generative systems.
+🎓 Diploma in Creative Coding (Warsaw, 2022). I also teach Creative Coding at the University of Social Sciences and Humanities of Warsaw.
+💞️ Open to collaboration and new opportunities — especially where technology meets creative practice.
+📫 hello@martynachojnacka.com — and see recent work at martynachojnacka.com
 
 <!---
 MartynaC/MartynaC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
