@@ -4,7 +4,7 @@
 🤖 Currently finishing a Data Science, Machine Learning & AI bootcamp at Le Wagon — expanding into Python, ML pipelines, and generative systems..<br>
 🎓 Diploma in Creative Coding (Warsaw, 2022). I also teach Creative Coding at the University of Social Sciences and Humanities of Warsaw..<br>
 💞️ Open to collaboration and new opportunities — especially where technology meets creative practice..<br>
-📫 hello@martynachojnacka.com — and see recent work at <a href="[martynachojnacka.com](https://www.martynachojnacka.com/)">martynachojnacka.com</a>
+📫 hello@martynachojnacka.com — and see recent work at [<a href="[martynachojnacka.com](https://www.martynachojnacka.com/)">martynachojnacka.com</a>](https://www.martynachojnacka.com/)
 
 <!---
 MartynaC/MartynaC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
